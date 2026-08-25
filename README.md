@@ -40,7 +40,7 @@ Moving from linear chains to stateful, graph-based agentic workflows.
 
 | Repo | What it covers |
 |---|---|
-| [Langgraph](https://github.com/24thAbhinav/Langgraph) | Repo where im logging all langgraph fundamental learnings |
+| [fundamentals](https://github.com/24thAbhinav/Langgraph-fundamentals) | Repo where im logging all langgraph fundamental learnings |
 
 ---
 
