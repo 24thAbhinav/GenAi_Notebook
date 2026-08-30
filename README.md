@@ -2,7 +2,7 @@
 
 A running log and summary of everything I'm learning about Generative AI
 
-Each repo is a playground for a specific idea or cancept rather than a polished product, so expect notes, scripts, and "getting it to work" energy over production code.
+Each repo is a playground for a specific idea or cancept rather than a polished product.
 
 ---
 
